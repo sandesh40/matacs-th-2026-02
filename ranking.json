@@ -1,0 +1,37 @@
+[
+  {
+    "proposal": "A",
+    "rank": 1,
+    "status": "ranked",
+    "score": 84,
+    "reason": "Strong experience, competitive price, 12-week schedule, full warranties, and a complete named team and monitoring plan."
+  },
+  {
+    "proposal": "B",
+    "rank": null,
+    "status": "ineligible",
+    "score": null,
+    "reason": "The bidder's Ontario electrical contractor licence is not confirmed; a subcontractor is only to be confirmed after award."
+  },
+  {
+    "proposal": "C",
+    "rank": 3,
+    "status": "ranked",
+    "score": 68,
+    "reason": "Passes mandatory checks and has solid experience and warranties, but its 14-week schedule and less complete stated team approach score lower."
+  },
+  {
+    "proposal": "D",
+    "rank": null,
+    "status": "flagged",
+    "score": null,
+    "reason": "Passes mandatory checks, but the completion schedule is undetermined; request a committed timeline before scoring and ranking."
+  },
+  {
+    "proposal": "E",
+    "rank": 2,
+    "status": "ranked",
+    "score": 75,
+    "reason": "Passes mandatory checks with strong experience, a 13-week schedule, 12-year workmanship warranty, and detailed team and monitoring plans."
+  }
+]
